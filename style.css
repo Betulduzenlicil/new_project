@@ -1,0 +1,55 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    
+}
+
+
+
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.carousel-caption{
+    bottom: 8rem;
+    color: purple;
+   
+}
+
+.btn{
+    color: white;
+    width: 10rem;
+    height: 3rem;
+}
+
+.circle i{
+    border-radius: 50%;
+}
+
+.team img {
+    width: 250px;
+    border: 10px solid #cccccc;
+    
+    
+  }
+
+  a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+    padding: 0.5rem;
+   
+    
+  }
+.contact{
+    background-image: url(./img/map.jpeg);
+    color: white;
+    height: 70vh;
+}
