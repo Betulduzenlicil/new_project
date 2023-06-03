@@ -50,6 +50,7 @@
   }
 .contact{
     background-image: url(./img/map.jpeg);
+    background-size: cover;
     color: white;
     height: 70vh;
 }
